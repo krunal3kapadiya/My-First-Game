@@ -4,6 +4,14 @@
  
  ![demoGif](/MyFirstGame.gif)
 
+## How to contribute?
+- Check out contribution :point_right: [Guidelines](./CONTRIBUTING.md)  
+
+# Questions
+
+Tweet me at: 
+[![Twitter URL](https://img.shields.io/badge/Twitter-@krunal3kapadiya-blue.svg?style=for-the-badge)](https://twitter.com/krunal3kapadiya)
+
 
 ## License
     Copyright 2015 Krunal Kapadiya
