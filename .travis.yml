@@ -30,6 +30,9 @@ licenses:
     - 'android-sdk-license-.+'
     - 'google-gdk-license-.+'
 
+before_install:
+  - mkdir "$ANDROID_HOME/licenses" || true
+
 before_script:
     - chmod +x gradlew      #Grant permissions
 
